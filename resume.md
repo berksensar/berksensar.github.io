@@ -63,9 +63,8 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- Microsoft Office, LibreOffice
+- Sales, International Sales
+- Adobe Photoshop, Krita, Gimp
+- Professional English, Elementary Russian
+- Powerlifting
