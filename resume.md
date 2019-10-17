@@ -44,7 +44,7 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 <a href="https://www.academia.edu/37084109/Do_Video_Games_Have_an_Effect_on_Reaction_Time_and_Reflexes"> Do Video Games Have an Effecton Reaction Time and Reflexes?  - May 2018
 
-### ACHIEVEMENTS
+### ACHIEVEMENTS, CERTIFICATES
 
 **ÖSYS 2017**
 
@@ -55,7 +55,11 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 2014 - 501 pt.
 
-1st place in the city, 146thin Turkey
+1st place in the city, 146th in Turkey
+
+**Google Digital Sales Certification**
+
+    Completion ID: 19347266 Expires: August 27, 2020 
 
 ### RECOGNITION & INTERESTS
 
