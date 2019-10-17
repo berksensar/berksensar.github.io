@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: Gökay Balcı
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  Kişisel websitesi
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://gokaybalci.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Gökay Balcı
+  github: https://github.com/gokaybalci
+  linkedin: https://linkedin.com/gokay-balci
+  email: gokaybalci@outlook.com
 
 
 # Syntax highlighting
