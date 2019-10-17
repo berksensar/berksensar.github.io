@@ -27,17 +27,36 @@ Export Specialist - **Gökyar Mermer** <span style="float: right; ">2017</span>
 
 Real Estate Consultant - **Balcı Emlak** <span style="float: right; ">2016</span>  
 
+Intern Teacher - **Osmangazi Primary School** <span style="float: right; ">2016</span>  
 
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Nevrosa: Spider Song** - Game - Credited <span style="float: right; ">2019</span>  
+Turkish Translation of the VR game: Nevrosa: Spider Song 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Interactive Appboard** - School Project - Bogazici University <span style="float: right; ">2019</span>  
+Simple interactive appboard project based on Cone of Experience (inspired by iPedagogy Wheel)  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Hawklight** - Game (Story Writer) - /Discontinued/ <span style="float: right; ">Time span</span>  
+ ~
+
+### PUBLISHING
+
+Do Video Games Have an Effecton Reaction Time and Reflexes? <a href="https://www.academia.edu/37084109/Do_Video_Games_Have_an_Effect_on_Reaction_Time_and_Reflexes> - May '18
+
+### ACHIEVEMENTS
+
+**ÖSYS 2017**
+
+2017 - 469 pt.
+1st place in the city, 55th in Turkey
+
+**ÖSYS 2014**
+
+2014 - 501 pt.
+
+1st place in the city, 146thin Turkey
+
 ### RECOGNITION & INTERESTS
 
 - Etiam luctus ante quis est dictum faucibus.
