@@ -42,7 +42,7 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 ### PUBLISHING
 
-Do Video Games Have an Effecton Reaction Time and Reflexes? <a href="https://www.academia.edu/37084109/Do_Video_Games_Have_an_Effect_on_Reaction_Time_and_Reflexes> - May '18
+Do Video Games Have an Effecton Reaction Time and Reflexes? <a href="https://www.academia.edu/37084109/Do_Video_Games_Have_an_Effect_on_Reaction_Time_and_Reflexes"> - May '18
 
 ### ACHIEVEMENTS
 
