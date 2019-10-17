@@ -13,10 +13,10 @@ subtitle: An awesome person
 ### EDUCATION
 
 Boğaziçi Üniversitesi - **Bogazici University**  <span style="float: right; ">2014</span>  
-**Foreign Language Education Department**  
+(**Foreign Language Education Department**)
 
 Bilecik Anadolu Öğretmen Lisesi - **Bilecik Anatolian Teacher Training High School** <span style="float: right; ">2010</span>  
-**Foreign Language Division**
+(**Foreign Language Division**)
 
 
 ### EXPERIENCE
