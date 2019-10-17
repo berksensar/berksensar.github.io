@@ -37,7 +37,7 @@ Turkish Translation of the VR game: Nevrosa: Spider Song
 **Interactive Appboard** - School Project - Bogazici University <span style="float: right; ">2019</span>  
 Simple interactive appboard project based on Cone of Experience (inspired by iPedagogy Wheel)  
 
-**Hawklight** - Game (Story Writer) - /Discontinued/ <span style="float: right; ">Time span</span>  
+**Hawklight** - Game (Story Writer) - /Discontinued/ <span style="float: right; ">2018 - 2019</span>  
  ~
 
 ### PUBLISHING
