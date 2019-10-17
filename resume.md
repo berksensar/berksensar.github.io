@@ -7,8 +7,8 @@ subtitle: An awesome person
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### DESCRIPTION
+``` Dynamic professional with a proven record of generating and building relationships, managing projects from concept to completion, designing efficient strategies. Skilled in working cross-functional projects and jobs, demonstrating exceptional communication skills, and making critical decisions during challenges. Adaptable and transformational leader with an ability to work independently, creating effective presentations, and developing opportunities that further establish organizational goals. ```  
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
