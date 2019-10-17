@@ -12,27 +12,21 @@ subtitle: An awesome person
 
 ### EDUCATION
 
-Boğaziçi Üniversitesi - **Bogazici University**  <span style="float: right; ">2014</span>  
+ Bogazici University - **Boğaziçi Üniversitesi**  <span style="float: right; ">2014</span>  
 (**Foreign Language Education Department**)
 
-Bilecik Anadolu Öğretmen Lisesi - **Bilecik Anatolian Teacher Training High School** <span style="float: right; ">2010</span>  
+Bilecik Anatolian Teacher Training High School- **Bilecik Anadolu Öğretmen Lisesi** <span style="float: right; ">2010</span>  
 (**Foreign Language Division**)
 
 
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
+Sales Representative - **Nero Picasso** <span style="float: right; ">2018</span>  
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Export Specialist - **Gökyar Mermer** <span style="float: right; ">2017</span>  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Real Estate Consultant - **Balcı Emlak** <span style="float: right; ">2016</span>  
+
 
 
 ### PROJECTS
