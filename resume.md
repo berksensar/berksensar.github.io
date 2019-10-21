@@ -4,9 +4,6 @@ title: Résumé
 subtitle: An awesome person
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
-<br>
-
 ### DESCRIPTION
 ``` Dynamic professional with a proven record of generating and building relationships, managing projects from concept to completion, designing efficient strategies. Skilled in working cross-functional projects and jobs, demonstrating exceptional communication skills, and making critical decisions during challenges. Adaptable and transformational leader with an ability to work independently, creating effective presentations, and developing opportunities that further establish organizational goals. ```  
 
@@ -27,7 +24,7 @@ Export Specialist - **Gökyar Mermer** <span style="float: right; ">2017</span>
 
 Real Estate Consultant - **Balcı Emlak** <span style="float: right; ">2016</span>  
 
-Intern Teacher - **Osmangazi Primary School** <span style="float: right; ">2016</span>  
+Intern Teacher - **Osmangazi Primary School** <span style="float: right; ">2014</span>  
 
 
 ### PROJECTS
