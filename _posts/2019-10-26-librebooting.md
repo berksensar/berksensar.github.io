@@ -11,3 +11,4 @@ categories: tech
 
 <img src="{{ '/assets/img/photo_2019-10-22_13-44-24.jpg' | prepend: site.baseurl }}" id="about-img">
 
+<img src="{{ '/assets/img/photo_2019-10-22_13-44-24.jpg' }}" id="about-img">
