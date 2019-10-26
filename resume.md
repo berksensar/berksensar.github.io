@@ -32,8 +32,10 @@ Intern Teacher - **Osmangazi Primary School** <span style="float: right; ">2014<
 Turkish Translation of the VR game: Nevrosa: Spider Song 
 
 **Interactive Appboard** - School Project - Bogazici University <span style="float: right; ">2019</span>  
-Simple interactive appboard project based on Cone of Experience (inspired by iPedagogy Wheel)  
+Simple interactive appboard project based on Cone of Experience (inspired by iPedagogy Wheel) 
 
+<a href="/map.html"> Interactive Appboard 
+ 
 **Hawklight** - Game (Story Writer) - /Discontinued/ <span style="float: right; ">2018 - 2019</span>  
  ~
 
