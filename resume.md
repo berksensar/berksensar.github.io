@@ -4,8 +4,6 @@ title: Résumé
 subtitle: An awesome person
 ---
 
-### DESCRIPTION
-``` Dynamic professional with a proven record of generating and building relationships, managing projects from concept to completion, designing efficient strategies. Skilled in working cross-functional projects and jobs, demonstrating exceptional communication skills, and making critical decisions during challenges. Adaptable and transformational leader with an ability to work independently, creating effective presentations, and developing opportunities that further establish organizational goals. ```  
 
 ### EDUCATION
 
