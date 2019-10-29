@@ -4,9 +4,9 @@ title: Résumé
 subtitle: An awesome person
 ---
 
-<p align="center">
+
 ### EDUCATION
-</p>
+
 
  Bogazici University - **Boğaziçi Üniversitesi**  <span style="float: right; ">2014</span>  
 (**Foreign Language Education Department**)
