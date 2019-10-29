@@ -5,7 +5,7 @@ subtitle: An awesome person
 ---
 
 
-### EDUCATION
+## EDUCATION
 
 
  Bogazici University - **Boğaziçi Üniversitesi**  <span style="float: right; ">2014</span>  
@@ -15,7 +15,7 @@ Bilecik Anatolian Teacher Training High School- **Bilecik Anadolu Öğretmen Lis
 (**Foreign Language Division**)
 
 
-### EXPERIENCE
+## EXPERIENCE
 
 Sales Representative - **Nero Picasso** <span style="float: right; ">2018</span>  
  
@@ -26,17 +26,17 @@ Real Estate Consultant - **Balcı Emlak** <span style="float: right; ">2016</spa
 Intern Teacher - **Osmangazi Primary School** <span style="float: right; ">2014</span>  
 
 
-### LANGUAGES
+## LANGUAGES
 
-# Human
+### Human
 - Turkish (Native)
 - English (Professional Proficiency)
 - Russian (Elementary)
 
-# Machine
+### Machine
 - Python
 
-### PROJECTS
+## PROJECTS
 **Nevrosa: Spider Song** - Game - Credited <span style="float: right; ">2019</span>  
 Turkish Translation of the VR game: Nevrosa: Spider Song 
 
@@ -48,11 +48,11 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 **Hawklight** - Game (Story Writer) - /Discontinued/ <span style="float: right; ">2018 - 2019</span>  
  ~
 
-### PUBLISHING
+## PUBLISHING
 
 <a href="https://www.academia.edu/37084109/Do_Video_Games_Have_an_Effect_on_Reaction_Time_and_Reflexes"> Do Video Games Have an Effecton Reaction Time and Reflexes?  - May 2018
 
-### ACHIEVEMENTS, CERTIFICATES
+## ACHIEVEMENTS, CERTIFICATES
 
 - **ÖSYS 2017**
 
@@ -76,10 +76,10 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 <a href="https://www.udemy.com/certificate/UC-FWEC6TNU/"> Certificate
 
-### PROGRAMS (OR APPLICATIONS) I'M FAMILIAR WITH
+## PROGRAMS (OR APPLICATIONS) I'M FAMILIAR WITH
 Microsoft Office, LibreOffice, Adobe Photoshop, Sony Vegas, Krita, Github Pages (Jekyll), Wordpress
 
-### INTERESTS
+## INTERESTS
  
 - Free (i.e. libre) software
 - Survivalism
