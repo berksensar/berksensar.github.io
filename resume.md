@@ -27,6 +27,16 @@ Real Estate Consultant - **Balcı Emlak** <span style="float: right; ">2016</spa
 Intern Teacher - **Osmangazi Primary School** <span style="float: right; ">2014</span>  
 
 
+### LANGUAGES
+
+# Human
+- Turkish (Native)
+- English (Professional Proficiency)
+- Russian (Elementary)
+
+# Machine
+- Python
+
 ### PROJECTS
 **Nevrosa: Spider Song** - Game - Credited <span style="float: right; ">2019</span>  
 Turkish Translation of the VR game: Nevrosa: Spider Song 
@@ -67,10 +77,12 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 <a href="https://www.udemy.com/certificate/UC-FWEC6TNU/"> Certificate
 
+### PROGRAMS (OR APPLICATIONS) I'M FAMILIAR WITH
+Microsoft Office, LibreOffice, Adobe Photoshop, Sony Vegas, Krita, Github Pages (Jekyll), Wordpress
 
-### RECOGNITION & INTERESTS
+### INTERESTS
  
-- Sales, International Sales
-- Software: Microsoft Office, LibreOffice, Adobe Photoshop, Sony Vegas, Krita
-- Professional English, Elementary Russian, Python for coding.
+- Different operating systems (Windows, GNU/Linux, MacOS)
 - Powerlifting
+- Foreign languages and linguistics
+
