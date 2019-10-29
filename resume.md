@@ -69,9 +69,8 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 
 ### RECOGNITION & INTERESTS
-
-- Microsoft Office, LibreOffice
+ 
 - Sales, International Sales
-- Adobe Photoshop, Krita, Gimp
-- Professional English, Elementary Russian
+- Software: Microsoft Office, LibreOffice, Adobe Photoshop, Sony Vegas, Krita
+- Professional English, Elementary Russian, Python for coding.
 - Powerlifting
