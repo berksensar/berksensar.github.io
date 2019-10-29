@@ -4,8 +4,10 @@ title: Résumé
 subtitle: An awesome person
 ---
 
+<p align="center">
+### EDUCATION
+</p>
 
-<p style="text-align: center;"> ### EDUCATION </p> 
  Bogazici University - **Boğaziçi Üniversitesi**  <span style="float: right; ">2014</span>  
 (**Foreign Language Education Department**)
 
@@ -79,6 +81,10 @@ Microsoft Office, LibreOffice, Adobe Photoshop, Sony Vegas, Krita, Github Pages 
 
 ### INTERESTS
  
+- Free (i.e. libre) software
+- Survivalism
+- Cybernetics
+- Medieval thought
 - Different operating systems (Windows, GNU/Linux, MacOS)
 - Powerlifting
 - Foreign languages and linguistics
