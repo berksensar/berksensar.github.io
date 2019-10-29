@@ -59,6 +59,10 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 **Google Digital Sales Certification**
 
     Completion ID: 19347266 Expires: August 27, 2020 
+    
+**Linux Operating System Fundamentals**
+
+<a href="https://www.udemy.com/certificate/UC-FWEC6TNU/"> Certificate
 
 ### RECOGNITION & INTERESTS
 
