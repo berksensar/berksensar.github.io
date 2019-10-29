@@ -45,32 +45,28 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 ### ACHIEVEMENTS, CERTIFICATES
 
-**ÖSYS 2017**
+- **ÖSYS 2017**
 
 2017 - 469 pt.
 1st place in the city, 55th in Turkey
 
--
 
-**ÖSYS 2014**
+- **ÖSYS 2014**
 
 2014 - 501 pt.
 
 1st place in the city, 146th in Turkey
 
--
 
-**Google Digital Sales Certification**
+- **Google Digital Sales Certification**
 
     Completion ID: 19347266 Expires: August 27, 2020 
+ 
     
--
-    
-**Linux Operating System Fundamentals**
+- **Linux Operating System Fundamentals**
 
 <a href="https://www.udemy.com/certificate/UC-FWEC6TNU/"> Certificate
- 
- -
+
 
 ### RECOGNITION & INTERESTS
 
