@@ -54,19 +54,6 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 ## ACHIEVEMENTS, CERTIFICATES
 
-- **ÖSYS 2017**
-
-2017 - 469 pt.
-1st place in the city, 55th in Turkey
-
-
-- **ÖSYS 2014**
-
-2014 - 501 pt.
-
-1st place in the city, 146th in Turkey
-
-
 - **Google Digital Sales Certification**
 
 <a href="https://academy.exceedlms.com/student/award/19347266"> Completion ID: 19347266 Expires: August 27, 2020 
@@ -76,8 +63,19 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 
 <a href="https://www.udemy.com/certificate/UC-FWEC6TNU/"> Certificate
 
+- **ÖSYS 2017**
+
+2017 - 469 pt. (1st place in the city, 55th in Turkey)
+
+
+- **ÖSYS 2014**
+
+2014 - 501 pt. (1st place in the city, 146th in Turkey)
+
+
+
 ## PROGRAMS (OR APPLICATIONS) I'M FAMILIAR WITH
-Microsoft Office, LibreOffice, Adobe Photoshop, Sony Vegas, Krita, Github Pages (Jekyll), Wordpress
+Microsoft Office, LibreOffice, Visual Studio Code (and some other IDE's such as PyCharm, Thonny etc.), Adobe Photoshop, Sony Vegas, Krita, Github Pages (Jekyll), Wordpress and many CLI applications. 
 
 ## INTERESTS
  
