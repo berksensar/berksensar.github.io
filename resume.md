@@ -43,8 +43,9 @@ Turkish Translation of the VR game: Nevrosa: Spider Song
 - **Interactive Appboard** - School Project - Bogazici University <span style="float: right; ">2019</span>  
 Simple interactive appboard project based on Cone of Experience (inspired by iPedagogy Wheel) 
 
-<a href="/map.html"> Interactive Appboard 
- 
+<a href="/map.html"> Interactive Appboard
+
+
  - **Lazuri Alboni / Lazca Alfabe Pratik Programı**
  
 <a href="https://github.com/gokaybalci/Lazuri-Alboni/"> Lazuri Alboni v1.0
