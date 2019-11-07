@@ -46,6 +46,7 @@ Simple interactive appboard project based on Cone of Experience (inspired by iPe
 <a href="/map.html"> Interactive Appboard 
  
  - **Lazuri Alboni / Lazca Alfabe Pratik Programı**
+ 
 <a href="https://github.com/gokaybalci/Lazuri-Alboni/"> Lazuri Alboni v1.0
  
 - **Hawklight** - Game (Story Writer) - /Discontinued/ <span style="float: right; ">2018 - 2019</span>  
