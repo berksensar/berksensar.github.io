@@ -82,7 +82,7 @@ Microsoft Office, LibreOffice, Visual Studio Code (and some other IDE's such as 
 - Free (i.e. libre) software
 - Survivalism
 - Cybernetics
-- Medieval thought
+- Stoicism
 - Different operating systems (Windows, GNU/Linux, MacOS)
 - Powerlifting
 - Foreign languages and linguistics
