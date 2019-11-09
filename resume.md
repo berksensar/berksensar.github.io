@@ -17,7 +17,7 @@ Bilecik Anatolian Teacher Training High School- **Bilecik Anadolu Öğretmen Lis
 
 ## EXPERIENCE
 
-Intern Teacher - **Beşiktaş Şair Nedim Ortaokulu <span style="float: right; ">2019/2020</span>
+Intern Teacher - **Beşiktaş Şair Nedim Ortaokulu** <span style="float: right; ">2019/2020</span>
 
 Sales Representative - **Nero Picasso** <span style="float: right; ">2018</span>  
  
