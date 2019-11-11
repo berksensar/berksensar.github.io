@@ -11,3 +11,15 @@ categories: misc
 <p align="center">
 <img src="{{ '/assets/img/wolvi.jpg' | prepend: site.baseurl }}">
 </p>
+
+<p align="center">
+<img src="{{ '/assets/img/photo_2019-11-11_14-43-31.jpg' | prepend: site.baseurl }}">
+</p>
+
+<p align="center">
+<img src="{{ '/assets/img/photo_2019-11-11_14-43-33.jpg' | prepend: site.baseurl }}">
+</p>
+
+<p align="center">
+<img src="{{ '/assets/img/photo_2019-11-11_14-43-36.jpg' | prepend: site.baseurl }}">
+</p>
