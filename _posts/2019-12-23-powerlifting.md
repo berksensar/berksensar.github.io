@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "PW Numbers"
-subtitle: "nSuns Programme"
+title:  "Powerlifting Numbers"
+subtitle: "nSuns 4-Day"
 date:   2019-12-23 21:21:21 +0530
 categories: sports
 ---
