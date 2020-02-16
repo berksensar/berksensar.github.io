@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Selam!
-subtitle:  Berk ŞENŞAR
+title: Selamlar!
+subtitle: Benim adım Berk ŞENŞAR.
 sitemap:
   priority: 0.9
 ---
