@@ -1,17 +1,17 @@
 # Site settings
-title: Gökay Balcı
+title: N. Berk ŞENŞAR
 description: >
   Kişisel websitesi
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://gokaybalci.github.io" # the base hostname & protocol for your site
+url: "https://berksensar.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Gökay Balcı
-  github: gokaybalci
-  linkedin: gokay-balci
-  email: gokaybalci@outlook.com
-  armut: https://armut.com/hizmetveren/gokay-balci-istanbul-sariyer-ingilizce-ozel-ders_258581
+  fullname: Berk ŞENŞAR 
+  github: berksensar  
+  linkedin: berksensar
+  email: berksensar@gmail.com
+ 
 
 
 # Syntax highlighting
