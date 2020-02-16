@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Gökay
+title: Selam!
+subtitle:  Berk ŞENŞAR
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <center><img src="{{ '/assets/img/pixelart.png' | prepend: site.baseurl }}"></center>
 
 <div id="describe-text">
-	<p>This is my personal website which you can find my CV, my projects or blog posts.</p>
+	<p>Bu benim hakkımda genel bilgiler, projeler ve benzeri bilgileri bulabileğiniz sayfamdır.</p>
 	
 </div>
